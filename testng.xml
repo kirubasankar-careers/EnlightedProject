@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="MAVENDEMO">
+ <test name="Simple Test">
+  <!-- <parameter name="dbconfig" value="db.properties" />
+  <parameter name="poolsize" value="10" />
+ 
+   <packages>
+      <package name="com.qa.test.*"/>
+    </packages>-->
+    	
+	<classes>
+	  <class name="com.qa.test.AmazonSearch" />
+	</classes> 
+  </test>
+</suite>
